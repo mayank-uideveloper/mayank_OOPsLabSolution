@@ -1,2 +1,3 @@
 module OOPsLabSolution {
+	String test;
 }
