@@ -1,3 +1,0 @@
-module OOPsLabSolution {
-	String test;
-}
